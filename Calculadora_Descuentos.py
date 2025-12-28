@@ -212,43 +212,5 @@ if __name__ == "__main__":
 
 
 
-# while True:
-#     print("1. Ingresa el producto a agregar")
-#     print("2. Eliminar un producto")
-#     print("3. Editar un producto")
-#     print("4. Mostrar lista de compras")
-#     print("5. Revisar descuento aplicable")
-#     print("0. Salir")
-#     print(" ")
-
-   
-#     respuesta = int(input("Ingresa la opcion a elegir: "))
-
-#     if respuesta == 1:
-#         print(" ")
-#         articulo = input("Ingresa el nombre del producto: ")
-#         precio = input("Ingresa el precio del producto: ")
-#         cantidad = input("Ingresa la cantidad que deseas llevar: ")
-#         print(" ")
-#         producto = {"articulo": articulo, "precio": precio, "cantidad": cantidad}
-#         lista_compras.append(producto)
-
-#     print(f"Producto {articulo} agregado.")
-#     print(" ")
         
 
-
-
-
-
-
-# nombre_producto = input("Ingresa el nombre del producto: ")
-# print("")
-
-# while True:
-#     if nombre_producto == "":
-#         print("Entrada invalida. Este campo no puede estar vacio.")
-#     else:
-#         mensaje = input("Producto agregado al carrito, presiona enter para continuar")
-        
-        
